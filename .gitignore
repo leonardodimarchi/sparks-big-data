@@ -1,3 +1,4 @@
 user_data/flights/*
+user_data/taxi/*
 user_data/.Trash*
 user_data/spark-3.3.0-bin-hadoop2/*
